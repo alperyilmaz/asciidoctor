@@ -1,3 +1,5 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/alperyilmaz/asciidoctor.svg)](https://hub.docker.com/r/alperyilmaz/asciidoctor/) [![Docker Automated buil](https://img.shields.io/docker/automated/alperyilmaz/asciidoctor.svg?style=flat-square)](https://hub.docker.com/r/alperyilmaz/asciidoctor/) [![Docker Build Statu](https://img.shields.io/docker/build/alperyilmaz/asciidoctor.svg?style=flat-square)](https://hub.docker.com/r/alperyilmaz/asciidoctor/) [![](https://images.microbadger.com/badges/image/alperyilmaz/asciidoctor.svg)](https://microbadger.com/images/alperyilmaz/asciidoctor "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/license/alperyilmaz/asciidoctor.svg)](https://microbadger.com/images/alperyilmaz/asciidoctor "Get your own license badge on microbadger.com")
+
 # asciidoctor container
 
 Asciidoctor container, based on `asciidoctor/docker-asciidoctor` container, includes more packages such as `asciidoctor-bibtex`, `asciidoctor-bibliography`, etc.
